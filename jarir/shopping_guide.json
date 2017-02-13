@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "serial": "1326459754", 
+      "pdf": "http://domain.com/file.pdf", 
+      "title_en": "Shopping Guide",
+      "title_ar": "دليل التسوق",
+      "type":"guide",
+      "thumbnail" : "http://domain.com/image.png"
+    },
+    {
+      "serial": "12312423", 
+      "pdf": "http://domain.com/file2.pdf", 
+      "title_en": "IT Flyer",
+      "title_ar": "Hello world",
+      "type":"flyer",
+      "thumbnail" : "http://domain.com/image.png"
+    },
+    {
+      "serial": "12312423", 
+      "pdf": "http://domain.com/file2.pdf", 
+      "title_en": "Jarir Publication Kids Catalog",
+      "title_ar": "دليل إصدارات جرير للأطفال",
+      "type":"catalog",
+      "thumbnail" : "http://domain.com/image.png"
+    },
+    {
+      "serial": "12312423", 
+      "pdf": "http://domain.com/file2.pdf", 
+      "title_en": "Jarir Publication",
+      "title_ar": "إصدارات جرير",
+      "type":"catalog",
+      "thumbnail" : "http://domain.com/image.png"
+    },
+    {
+      "serial": "12312423", 
+      "pdf": "http://domain.com/file2.pdf", 
+      "title_en": "Office Supplies Catalogue",
+      "title_ar": "كتالوج الأدوات المكتبية",
+      "type":"catalog",
+      "thumbnail" : "http://domain.com/image.png"
+    }
+  ]
+}
