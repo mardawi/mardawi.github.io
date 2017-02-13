@@ -1,51 +1,57 @@
 {
   "data": [
     {
-      "serial": "254765435", 
+      "language": "ar", 
+      "orientation": "landscape", 
       "pdf": "https://mardawi.github.io/jarir/pdf/jarir-shopping-guide-2.compressed.pdf", 
-      "title_en": "Shopping Guide",
-      "title_ar": "دليل التسوق",
-      "type":"guide",
-      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir-shopping-guide.jpg",
-      "orientation" : "landscape"
-    },
+      "serial": "254765435", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir-shopping-guide.jpg", 
+      "title_ar": "دليل التسوق", 
+      "title_en": "Shopping Guide", 
+      "type": "guide"
+    }, 
     {
-      "serial": "1243576678", 
+      "language": "ar", 
+      "orientation": "landscape", 
       "pdf": "https://mardawi.github.io/jarir/pdf/jarir-IT-flyer-ksa.compressed.pdf", 
-      "title_en": "Gaming Festival",
-      "title_ar": "مهرجان الألعاب",
-      "type":"flyer",
-      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir-IT-flyer.jpg",
-      "orientation" : "landscape"
-    },
+      "serial": "1243576678", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir-IT-flyer.jpg", 
+      "title_ar": "مهرجان الألعاب", 
+      "title_en": "Gaming Festival", 
+      "type": "flyer"
+    }, 
     {
-      "serial": "12354768", 
-      "pdf": "http://domain.com/file2.pdf", 
+      "language": "ar", 
+      "orientation": "portrait", 
       "pdf": "https://mardawi.github.io/jarir/pdf/jb-kids-catalog2016.compressed.pdf", 
-      "title_en": "Jarir Publication Kids Catalog",
-      "title_ar": "دليل إصدارات جرير للأطفال",
-      "type":"catalog",
-      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jb-kids-catalog.jpg",
-      "orientation" : "portrait"
-    },
+      "serial": "12354768", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jb-kids-catalog.jpg", 
+      "title_ar": "دليل إصدارات جرير للأطفال", 
+      "title_en": "Jarir Publication Kids Catalog", 
+      "type": "catalog"
+    }, 
     {
-      "serial": "789035456", 
+      "language": "ar", 
+      "orientation": "portrait", 
       "pdf": "https://mardawi.github.io/jarir/pdf/jarir_publication-catalog.compressed.pdf", 
-      "title_en": "Jarir Publication",
-      "title_ar": "إصدارات جرير",
-      "type":"catalog",
-      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir_publications.jpg",
-      "orientation" : "portrait"
-    },
+      "serial": "789035456", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir_publications.jpg", 
+      "title_ar": "إصدارات جرير", 
+      "title_en": "Jarir Publication", 
+      "type": "catalog"
+    }, 
     {
-      "serial": "123487075", 
+      "language": "ar", 
+      "orientation": "portrait", 
       "pdf": "https://mardawi.github.io/jarir/pdf/jarir-Office-Supplies-catalog.compressed.pdf", 
-      "title_en": "Office Supplies Catalogue",
-      "title_ar": "كتالوج الأدوات المكتبية",
-      "type":"catalog",
-      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir-Office-Supplies.jpg",
-      "orientation" : "portrait"
+      "serial": "123487075", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir-Office-Supplies.jpg", 
+      "title_ar": "كتالوج الأدوات المكتبية", 
+      "title_en": "Office Supplies Catalogue", 
+      "type": "catalog"
     }
-  ],
-  "type":"shopping_guide"
+  ], 
+  "status_code": "200", 
+  "status_message": "Success", 
+  "type": "shopping_guide"
 }
