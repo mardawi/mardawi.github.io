@@ -1,44 +1,51 @@
 {
   "data": [
     {
-      "serial": "1326459754", 
-      "pdf": "http://domain.com/file.pdf", 
+      "serial": "254765435", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir-shopping-guide-2.compressed.pdf", 
       "title_en": "Shopping Guide",
       "title_ar": "دليل التسوق",
       "type":"guide",
-      "thumbnail" : "http://domain.com/image.png"
+      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir-shopping-guide.jpg",
+      "orientation" : "landscape"
     },
     {
-      "serial": "12312423", 
-      "pdf": "http://domain.com/file2.pdf", 
-      "title_en": "IT Flyer",
-      "title_ar": "Hello world",
+      "serial": "1243576678", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir-IT-flyer-ksa.compressed.pdf", 
+      "title_en": "Gaming Festival",
+      "title_ar": "مهرجان الألعاب",
       "type":"flyer",
-      "thumbnail" : "http://domain.com/image.png"
+      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir-IT-flyer.jpg",
+      "orientation" : "landscape"
     },
     {
-      "serial": "12312423", 
+      "serial": "12354768", 
       "pdf": "http://domain.com/file2.pdf", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jb-kids-catalog2016.compressed.pdf", 
       "title_en": "Jarir Publication Kids Catalog",
       "title_ar": "دليل إصدارات جرير للأطفال",
       "type":"catalog",
-      "thumbnail" : "http://domain.com/image.png"
+      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jb-kids-catalog.jpg",
+      "orientation" : "portrait"
     },
     {
-      "serial": "12312423", 
-      "pdf": "http://domain.com/file2.pdf", 
+      "serial": "789035456", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir_publication-catalog.compressed.pdf", 
       "title_en": "Jarir Publication",
       "title_ar": "إصدارات جرير",
       "type":"catalog",
-      "thumbnail" : "http://domain.com/image.png"
+      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir_publications.jpg",
+      "orientation" : "portrait"
     },
     {
-      "serial": "12312423", 
-      "pdf": "http://domain.com/file2.pdf", 
+      "serial": "123487075", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir-Office-Supplies-catalog.compressed.pdf", 
       "title_en": "Office Supplies Catalogue",
       "title_ar": "كتالوج الأدوات المكتبية",
       "type":"catalog",
-      "thumbnail" : "http://domain.com/image.png"
+      "thumbnail" : "https://mardawi.github.io/jarir/thumbs/jarir-Office-Supplies.jpg",
+      "orientation" : "portrait"
     }
-  ]
+  ],
+  "type":"shopping_guide"
 }
