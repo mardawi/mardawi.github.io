@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "language": "ar", 
+      "orientation": "landscape", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir-shopping-guide-2.compressed.pdf", 
+      "serial": "254765435", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir-shopping-guide.jpg", 
+      "title_ar": "دليل التسوق", 
+      "title_en": "Shopping Guide", 
+      "type": "guide"
+    }, 
+    {
+      "language": "ar", 
+      "orientation": "landscape", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir-IT-flyer-ksa.compressed.pdf", 
+      "serial": "1243576678", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir-IT-flyer.jpg", 
+      "title_ar": "مهرجان الألعاب", 
+      "title_en": "Gaming Festival", 
+      "type": "flier"
+    }, 
+    {
+      "language": "ar", 
+      "orientation": "portrait", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jb-kids-catalog2016.compressed.pdf", 
+      "serial": "12354768", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jb-kids-catalog.jpg", 
+      "title_ar": "دليل إصدارات جرير للأطفال", 
+      "title_en": "Jarir Publication Kids Catalog", 
+      "type": "catalog"
+    }, 
+    {
+      "language": "ar", 
+      "orientation": "portrait", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir_publication-catalog.compressed.pdf", 
+      "serial": "789035456", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir_publications.jpg", 
+      "title_ar": "إصدارات جرير", 
+      "title_en": "Jarir Publication", 
+      "type": "catalog"
+    }, 
+    {
+      "language": "ar", 
+      "orientation": "portrait", 
+      "pdf": "https://mardawi.github.io/jarir/pdf/jarir-Office-Supplies-catalog.compressed.pdf", 
+      "serial": "123487075", 
+      "thumbnail": "https://mardawi.github.io/jarir/thumbs/jarir-Office-Supplies.jpg", 
+      "title_ar": "كتالوج الأدوات المكتبية", 
+      "title_en": "Office Supplies Catalogue", 
+      "type": "catalog"
+    }
+  ], 
+  "status_code": "200", 
+  "status_message": "Success", 
+  "type": "shopping_guide"
+}
