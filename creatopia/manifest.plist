@@ -17,9 +17,9 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>co.yaqut.creatopiaapp</string>
+                                <string>com.dubaiculture.creatopia</string>
                                 <key>bundle-version</key>
-                                <string>1.4</string>
+                                <string>1.5</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
